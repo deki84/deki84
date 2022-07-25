@@ -1,2 +1,2 @@
 ### Hi there 👋
-#Hello my name is Dejan nickname Deki . I live by the law of attraction and believe that through learning and ambition you can achieve everything.
+#Hello my name nick Name is Deki . I live by the law of attraction and believe that through learning and ambition you can achieve everything.
