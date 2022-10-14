@@ -1,5 +1,11 @@
+# Deki84
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deki84&theme=blue-green&show_icons=true)
+
+
+
+
 ### Hi there 👋
-### My nick Name is Deki .I am making an education to web developer [neuefische GmbH](https://www.neuefische.de/). I live by the law of attraction and believe that through learning and ambition you can achieve everything.
+### My nick Name is Deki.I am making an education to web developer [neuefische GmbH](https://www.neuefische.de/). I live by the law of attraction and believe that through learning and ambition you can achieve everything.
 
 ### I am very interested in Crypto and the Blockchain $BTC $ETH $BSC
 
