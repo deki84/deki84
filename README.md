@@ -5,7 +5,7 @@
 
 
 ### Hi there 👋
-### My nick name is Deki.I am making an education to web developer [neuefische GmbH](https://www.neuefische.de/). I live by the law of attraction and believe that through learning and ambition you can achieve everything.
+### My nick name is Deki.I attended a bootcamp at @neuefische and now I am undergoing retraining as a specialist in application development for IT. I live by the law of attraction and believe that through learning and ambition you can achieve everything.
 
 ### I am very interested in Crypto and the Blockchain $BTC $ETH $BSC
 
