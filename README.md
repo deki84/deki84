@@ -1,5 +1,13 @@
 # Deki84
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deki84&theme=blue-green&show_icons=true)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deki84&theme=github)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
+
+
+
 
 
 
