@@ -1,9 +1,17 @@
 # 💫 About Me:
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deki84&theme=github)
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
+<p>
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    alt="Dev Quote"
+    width="70%"
+  />
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    alt="Coding GIF"
+    width="22%"
+  />
+</p>
 
 
 
