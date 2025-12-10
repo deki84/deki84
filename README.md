@@ -1,18 +1,19 @@
 # 💫 About Me:
-
-<p>
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-    alt="Dev Quote"
-    width="70%"
-  />
+<p align="center">
   <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
     alt="Coding GIF"
-    width="22%"
+    width="260"
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    alt="Dev Quote"
+    width="80%"
+  />
+</p>
 
 
 
