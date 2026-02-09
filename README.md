@@ -22,10 +22,15 @@
 
 
 ### Hi there 👋
-### My nick name is Deki. I attended a bootcamp at <a href="http://www.neuefische.de"> neuefische<a/> and now I am currently undergoing retraining as a specialist in application development in the IT sector at <a href= http://www.gfn.de>GFN <a/>. I live by the law of attraction and believe that through learning and ambition you can achieve everything.
+### My nickname is Deki.
 
-### I am very interested in Crypto and the Blockchain $BTC $ETH $BSC
+I completed a web development bootcamp at neuefische and have successfully finished my retraining as a Specialist in Application Development (Fachinformatiker Anwendungsentwicklung) at GFN.
 
-## I think that the blockchain will make everything easier in the future.
-[follow this link](https://www.europeanbusinessreview.com/future-of-blockchain-how-will-it-revolutionize-the-world-in-2022-beyond/)
+I strongly believe in the law of attraction and that continuous learning, discipline, and ambition are key drivers of personal and professional success. With a strong focus on software development, I am committed to growing my skills and creating meaningful, high-quality digital solutions.
+
+I am particularly interested in blockchain technology and cryptocurrencies, with a focus on systems such as Bitcoin and Ethereum, and I am eager to deepen my knowledge in smart contracts and decentralized applications.
+
+I believe blockchain technology has the potential to simplify processes, increase transparency, and build trust in modern digital systems.
+
+I am excited to apply my skills to real-world software and blockchain projects.
 ![Picture](https://miro.medium.com/max/1400/1*p3dhgD5AwVbXtyT-hIZWlg.png)
